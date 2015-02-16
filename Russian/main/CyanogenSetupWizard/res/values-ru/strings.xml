@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Мастер установки</string>
+
+	
+    <string name="next">Далее</string>
+    <string name="continue_label">Продолжить</string>
+    <string name="skip">Пропустить</string>
+    <string name="finish">Начать использование</string>
+    <string name="start">Начало</string>
+    <string name="cancel">Отмена</string>
+    <string name="create">Создать</string>
+    <string name="login">Логин</string>
+    <string name="ok">OK</string>
+    <string name="existing">Существующий</string>
+    <string name="new_account">Новый</string>
+    <string name="skip_anyway">Пропустить все равно</string>
+    <string name="dont_skip">"Не пропускать"</string>
+    <string name="loading">Загрузка...</string>
+    <string name="setup_complete">Установка завершена</string>
+    <string name="setup_welcome">Добро пожаловать</string>
+    <string name="setup_wifi">Выберите Wi-Fi</string>
+    <string name="setup_sim_missing">SIM карта не обнаружена</string>
+    <string name="setup_gms_account">Аккаунт GMS</string>
+    <string name="setup_choose_data_sim">Выберите SIM для передачи данных</string>
+    <string name="setup_location">Службы определения местоположения</string>
+    <string name="setup_datetime">Дата и время</string>
+    <string name="setup_current_date">Текущая дата</string>
+    <string name="setup_current_time">Текущее время</string>
+    <string name="sim_missing_summary">SIM-карты не обнаружены в вашем устройстве. Чтобы вставить SIM-карту, ознакомьтесь с инструкциями, которые пришли с вашим устройством.</string>
+    <string name="choose_data_sim_summary">Какую SIM карту вы хотите использовать для передачи данных?</string>
+    <string name="date_time_summary">Установите свой часовой пояс и настройки текущей даты и времени, при необходимости</string>
+    <string name="location_services_summary">Услуга определения местоположения позволяет картам и другим приложениям использовать данные о приблизительном местоположении. Например, карты могут использовать ваше приблизительное местоположение, чтобы найти поблизости кафе.</string>
+    <string name="location_access_summary"><b>Разрешить приложениям запрашивать информацию о вашем текущем местоположении.</b> </string>
+    <string name="location_gps"><b>Повысить точность местоположения</b> позволяя приложениям использовать GPS на телефоне.</string>
+    <string name="location_network"><b>"Использовать службы Google для определения местоположения"</b> чтобы помочь приложениям определить ваше местоположение. Это означает, что отправка анонимных данных о местоположении в Google будет происходить, даже тогда, когда никакие приложения не запущены.</string>
+    <string name="setup_mobile_data">Включить передачу данных</string>
+    <string name="setup_mobile_data_no_service">Служба отсутствует</string>
+    <string name="setup_mobile_data_emergency_only">Только экстренный вызов</string>
+    <string name="enable_mobile_data_summary">Вы хотите использовать передачу данных во время установки?</string>
+    <string name="enable_mobile_off">Нет</string>
+    <string name="enable_mobile_on">Да</string>
+    <string name="data_sim_name" formatted="false">SIM %d - %s</string>
+    <string name="emergency_call">Экстренный вызов</string>
+    <string name="setup_services">Служба Cyanogen</string>
+    <string name="services_explanation">"Эти услуги работают для вас, чтобы расширить возможности вашего устройства. Вы можете их отключить в любое время. Данные будут использоваться в соответствии с Cyanogen %s."</string>
+    <string name="services_privacy_policy">Политика конфиденциальности</string>
+    <string name="services_metrics_label"><b>Помогите улучшить Cyanogen OS</b> автоматически отправлять данные диагностики и использования в Cyanogen.</string>
+    <string name="services_os_nav_keys_label"><b>Use on screen navigation keys</b> to move between screens instead of hardware keys.</string>
+    <string name="services_secure_sms_label"><b>Use secure SMS</b> to encrypt SMS conversations with other users using secure SMS on a Cyanogen OS device.</string>
+    <string name="common_google_play_services_install_title">Установите Сервисы Google Play</string>
+    <string name="common_google_play_services_install_text_phone">Для работы этого приложения требуется установить Сервисы Google Play.</string>
+    <string name="common_google_play_services_install_text_tablet">Для работы этого приложения требуется установить Сервисы Google Play.</string>
+    <string name="common_google_play_services_install_button">Установить</string>
+    <string name="common_google_play_services_enable_title">Включите Сервисы Google Play</string>
+    <string name="common_google_play_services_enable_text">Для работы этого приложения требуется включить Сервисы Google Play.</string>
+    <string name="common_google_play_services_enable_button">Включить</string>
+    <string name="common_google_play_services_update_title">Обновите Сервисы Google Play</string>
+    <string name="common_google_play_services_update_text">Для работы этого приложения требуется обновить Сервисы Google Play.</string>
+    <string name="common_google_play_services_network_error_title">Ошибка сети</string>
+    <string name="common_google_play_services_network_error_text">Для работы с Google Play требуется подключение к сети.</string>
+    <string name="common_google_play_services_invalid_account_title">Недействительный аккаунт</string>
+    <string name="common_google_play_services_invalid_account_text">Этого аккаунта нет на устройстве. Выберите другой.</string>
+    <string name="common_google_play_services_unknown_issue">Неизвестная ошибка с Сервисами Google Play.</string>
+    <string name="common_google_play_services_unsupported_title">Сервисы Google Play</string>
+    <string name="common_google_play_services_unsupported_text">Сервисы Google Play, необходимые для работы некоторых приложений, не поддерживаются на вашем устройстве. Обратитесь к производителю.</string>
+    <string name="common_google_play_services_unsupported_date_text">Проверьте правильность даты, указанной на устройстве.</string>
+    <string name="common_google_play_services_update_button">Обновить</string>
+    <string name="common_signin_button_text">Войти</string>
+    <string name="common_signin_button_text_long">Войти в аккаунт Google</string>
+    <string name="auth_client_using_bad_version_title">Версия сервисов Google Play неисправна</string>
+    <string name="auth_client_needs_enabling_title">Для работы приложения требуется включить сервисы Google Play</string>
+    <string name="auth_client_needs_installation_title">Для работы приложения требуется установить сервисы Google Play</string>
+    <string name="auth_client_needs_update_title">Для работы приложения требуется обновить сервисы Google Play</string>
+    <string name="auth_client_play_services_err_notification_msg">Ошибка сервисов Google Play</string>
+    <string name="auth_client_requested_by_msg">Запрос от приложения \"%1$s\"</string>
+</resources>
